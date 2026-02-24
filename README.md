@@ -2,7 +2,7 @@
 
 ## Overview
 
-In real-life scenarios, speech signals are often corrupted by white, stationary or non-stationary noise. Thus, reducing the speech clarity and quality. In order to improve that I used 3 classical DSP techniques: Spectal Filtering (Spectral Subtraction), Wiener Filtering and Adaptive Filtering (LMS). *I decided not to go into the heavy maths of each of the techniques here, as they are explained in Jupyter notebook files*
+In real-life scenarios, speech signals are often corrupted by white, stationary or non-stationary noise. Thus, reducing the speech clarity and quality. In order to improve that I used 3 classical DSP techniques: Spectral Filtering (Spectral Subtraction), Wiener Filtering and Adaptive Filtering (LMS). *I decided not to go into the heavy maths of each of the techniques here, as they are explained in Jupyter notebook files*
 
 ## How I did it
 
